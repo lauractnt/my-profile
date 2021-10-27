@@ -1,0 +1,47 @@
+/*Colors and Fonts*/
+body {
+	text-align: center;
+	background: #E0E2DB;
+	color: rgb(30, 30, 30);
+	font-family: 'Cabin', sans-serif;
+}
+img { 
+	src="photo.png" class="img-circle"
+}
+h1	{
+	color: #5F7470;
+	font-family: 'Cabin', sans-serif;
+	font-size: 40px;
+	letter-spacing: 3px;
+	text-transform: uppercase;
+	line-height: 1,6;
+}
+h2	{
+	color: #5F7470;
+	font-family: 'Cabin', sans-serif;
+	font-size: 30px;
+	line-height: 1,2;
+	font-weight: lighter;
+}
+
+#logo{
+	border-radius: 50%;
+}
+div	{
+	background: #889696;
+	padding: 30px;
+	margin: 60px;
+	box-shadow: 5px 5px 5px black;
+	border-radius: 10px;
+}
+.btn-blue {
+	background-color: #404E7C;
+	color: white;
+	padding: 15px 20px;
+	border-radius:10px;
+}
+
+.btn-blue:hover{
+background-color: #260F26;
+color:white;
+}
